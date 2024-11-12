@@ -4,8 +4,6 @@ This repository contains a Python script that simulates sending an NTP mode 6 qu
 
 ## Disclaimer
 
-This repository contains a Python script that simulates sending an NTP mode 6 query to a remote host. This script is intended for educational purposes only and should be used in a controlled environment with explicit permission from the system owner.
-
 **Using this script without proper authorization is illegal and unethical. The author is not responsible for any misuse of this script.**
 
 By using the materials provided in this repository, you agree to the following:
