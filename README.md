@@ -11,7 +11,7 @@ Using this script without proper authorization is illegal and unethical. The aut
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/NTP-Mode6-Research.git
+   git clone https://github.com/Kaneki-hash/NTP-Mode6-Research.git
    cd NTP-Mode6-Research
    ```
 
